@@ -1,0 +1,44 @@
+{
+    "bodyTemplate1Data": {
+        "type": "object",
+        "backgroundImage": {
+            "sources": [
+                {
+                    "url": "https://i.ibb.co/RhThpwq/276773-P5-OK1-X-262-min.jpg",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://i.ibb.co/RhThpwq/276773-P5-OK1-X-262-min.jpg",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "textContent": {
+            "primaryText": {
+                "type": "PlainText",
+                "text": "TOTAL COINS"
+            },
+            "secondaryText": {
+                "type": "PlainText",
+                "text": "Try next question some text here</b>"
+            }
+        },
+        "coinImageUrl" : {
+            "sources": [
+                {
+                    "url": "https://i.ibb.co/W6cT3zB/dollar-1.png",
+                    "size": "small"
+                },
+                {
+                    "url": "https://i.ibb.co/7K711x1/iconfinder-coin-financial-business-finance-3522149-1.png",
+                    "size": "large"
+                }
+            ]
+        },
+        "score": 10
+    }
+}
