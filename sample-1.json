@@ -1,0 +1,82 @@
+{
+    "type": "APL",
+    "version": "1.0",
+    "theme": "dark",
+    "import": [],
+    "resources": [],
+    "styles": {},
+    "layouts": {},
+    "mainTemplate": {
+        "items": [
+            {
+                "type": "Container",
+                "alignItems": "center",
+                "direction" : "row",
+                "top": "25vh",
+                "position" : "absolute",
+                "items": [
+                    {
+                        "type": "Frame",
+                        "backgroundColor": "#9400D3",
+                        "item": {
+                            "type": "Text",
+                            "text": "1",
+                            "width": "20vw",
+                            "height": "200",
+                            "textAlign": "center",
+                            "textAlignVertical": "center"
+                        }
+                    },
+                    {
+                        "type": "Frame",
+                        "backgroundColor": "#4B0082",
+                        "item": {
+                            "type": "Text",
+                            "text": "2",
+                            "width": "20vw",
+                            "height": "200",
+                            "textAlign": "center",
+                            "textAlignVertical": "center"
+                        }
+                    },
+                    {
+                        "type": "Frame",
+                        "backgroundColor": "#0000FF",
+                        "item": {
+                            "type": "Text",
+                            "text": "3",
+                            "width": "20vw",
+                            "height": "200",
+                            "textAlign": "center",
+                            "textAlignVertical": "center"
+                        }
+                    },
+                    {
+                        "type": "Frame",
+                        "backgroundColor": "#00FF00",
+                        "item": {
+                            "type": "Text",
+                            "text": "4",
+                            "width": "20vw",
+                            "height": "200",
+                            "textAlign": "center",
+                            "textAlignVertical": "center"
+                        }
+                    },
+                    {
+                        "type": "Frame",
+                        "backgroundColor": "#FFFF00",
+                        "item": {
+                            "type": "Text",
+                            "text": "5",
+                            "width": "20vw",
+                            "height": "200",
+                            "textAlign": "center",
+                            "textAlignVertical": "center"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
